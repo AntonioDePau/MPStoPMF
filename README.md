@@ -1,5 +1,5 @@
 # MPStoPMF
-Allows the "conversion" of MPS files to PMF (It's basically almost just adding a header)
+Allows the "conversion" of MPS files to PMF (It's basically almost just adding a header) usually used as PSP videos.
 
 This tool takes an MPS file and adds a header as follows:<br />
 50 53 4D 46 30 30 30 34 <strong>00 00 08 00 00 B8 10 00</strong><br />
