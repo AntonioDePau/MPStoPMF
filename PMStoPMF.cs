@@ -63,7 +63,7 @@ namespace mpsToPmf{
 			h.AddRange(headerBis);
 			h.AddRange(Enumerable.Repeat((byte)0, 2048-h.Count).ToList());
 			h.AddRange(ms.ToArray().ToList());
-			File.WriteAllBytes("test.pmf", h.ToArray());
+			File.WriteAllBytes(Path.GetFileNameWithoutExtension(f)+".PMF", h.ToArray());
 			Console.WriteLine("Done!");
 		}
 		
