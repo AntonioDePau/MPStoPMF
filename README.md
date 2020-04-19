@@ -21,3 +21,5 @@ The header then goes on with null bytes until it is 2048 long.<br />
 Usage:<br />
 MPStoPMF videofile.mps<br />
 MPStoPMF type:15 videofile.mps<br />
+
+Or simply drag-and-drop a MPS file onto MPStoPMF.exe
