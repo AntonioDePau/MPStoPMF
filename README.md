@@ -23,3 +23,5 @@ MPStoPMF videofile.mps<br />
 MPStoPMF type:15 videofile.mps<br />
 
 Or simply drag-and-drop a MPS file onto MPStoPMF.exe
+
+Pre-compiled executable here: https://github.com/AntonioDePau/MPStoPMF/releases
